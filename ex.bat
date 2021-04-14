@@ -1,0 +1,1 @@
+gcc main.c Lista.c Matriz.c  -o a
